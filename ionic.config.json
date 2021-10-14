@@ -1,0 +1,9 @@
+{
+  "name": "testApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "v2": true,
+  "typescript": true
+}
